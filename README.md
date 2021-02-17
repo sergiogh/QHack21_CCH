@@ -1,6 +1,6 @@
 # QHack21
 <p align="center">
-  <img width="23" height="150" src="https://github.com/Inigoliz/QHack21_CCH/blob/main/logo.png">
+  <img width="230" height="150" src="https://github.com/Inigoliz/QHack21_CCH/blob/main/logo.png">
 </p>
 
 |CCH> team repository for Xanadu's QHack21.
