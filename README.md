@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Inigoliz/QHack21_CCH/blob/main/logo.png">
+</p>
+
 ![Screenshot](logo.png)
 
 # QHack21
