@@ -3,6 +3,7 @@
 </p>
 
 # QHack21 - |CCH> Team
+
 Our team's Repo for Xanadu's QHack21 challenges.
 
 Check the [Official Gihub Repo](https://github.com/XanaduAI/QHACK).
