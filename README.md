@@ -1,3 +1,5 @@
+![Screenshot](logo.png)
+
 # QHack21
 |CCH> team repository for Xanadu's QHack21.
 
