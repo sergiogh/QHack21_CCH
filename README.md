@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="230" height="150" src="https://github.com/Inigoliz/QHack21_CCH/blob/main/logo.png">
+  <img width="230" height="150" src="https://github.com/Inigoliz/QHack21_CCH/blob/main/img/logo.png">
 </p>
 
 # QHack21 - |CCH> Team
