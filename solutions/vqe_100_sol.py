@@ -73,7 +73,7 @@ def run_vqe(H):
     device = qml.device("default.qubit", wires=num_qubits)
 
     cost_fn = qml.ExpvalCost(variational_ansatz, H, device)
-    opt = qml.GradientDescentOptimizer(stepsize=0.05)
+    opt = qml.GradientDescentOptimizer(stepsize=0.06)
     max_iterations = 500
     conv_tol = 1e-07
 
@@ -82,9 +82,9 @@ def run_vqe(H):
         energy = cost_fn(params)
         conv = np.abs(energy - prev_energy)
 
-        if n % 10 == 0:
-            print('Iteration = {:},  Energy = {:.8f} Ha'.format(n, energy))
-            print('convergece: ', conv)
+        #if n % 10 == 0:
+        #    print('Iteration = {:},  Energy = {:.8f} Ha'.format(n, energy))
+        #    print('convergece: ', conv)
         if conv <= conv_tol:
             break
 
